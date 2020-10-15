@@ -14,7 +14,7 @@ This is not a DigitalOcean decision, it's one that is inspired by the community 
 
 If you feel that this repository is an effective learning resource, we encourage you to keep running it since a core part of the aim for Hacktoberfest is to encourage new folks to get involved with open-source.
 
-However, if you are interested in having contributions to this repo count toward Hacktoberfest we encourage you to take a look at this list of Hacktoberfest issues for inspiration and make the necessary changes to focus on enabling people to make meaningful contributions to open source projects.
+However, if you are interested in having contributions to this repositry count toward Hacktoberfest we encourage you to take a look at this list of Hacktoberfest issues for inspiration and make the necessary changes to focus on enabling people to make meaningful contributions to open source projects.
 
 If you have any questions about this or participating in Hacktoberfest, please contact our team via email hacktoberfest@digitalocean.com or join our community Discord server.
 
